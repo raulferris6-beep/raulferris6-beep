@@ -61,13 +61,6 @@ Me motiva crear herramientas útiles que resuelvan **problemas reales** y que se
 - 💭 Siempre tengo alguna **idea de SaaS o automatización** rondándome la cabeza
 - 🛍️ Reventa de electrónica, gafas y ropa como hobby
 
-## 📊 Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=raulferris6-beep&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raulferris6-beep&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📫 Contacto
 
 <p align="left">
