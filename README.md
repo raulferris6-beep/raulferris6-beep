@@ -25,8 +25,6 @@ const raul = {
   ubicacion:   "Albal (Valencia) 🇪🇸",
   formacion:   "Técnico Superior en DAM",
   practicas:   "Indra",
-  ahora:       "Desarrollo mis propias herramientas y apps con IA 🤖",
-  extra:       "Reventa de electrónica y ropa de vez en cuando 🛍️",
   aprendiendo: ["Desarrollo web", "IA aplicada", "DevOps"],
 };
 ```
