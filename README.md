@@ -59,7 +59,6 @@ Me motiva crear herramientas útiles que resuelvan **problemas reales** y que se
 
 - 🤖 Me encanta crear **herramientas prácticas con inteligencia artificial**
 - 💭 Siempre tengo alguna **idea de SaaS o automatización** rondándome la cabeza
-- 🛍️ Reventa de electrónica, gafas y ropa como hobby
 
 ## 📫 Contacto
 
